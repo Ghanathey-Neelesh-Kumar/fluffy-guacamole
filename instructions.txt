@@ -1,7 +1,6 @@
 This is my first file in which I am writing instructions.
 This is the server
-This is the error file
 
-New Lines has been added
+This is the error file 
+These are the changes in the sample-branch
 
-update the file
